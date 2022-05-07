@@ -1,0 +1,28 @@
+﻿{
+  "A1": {
+    "Name": "XL",
+    "Price": 5.0,
+    "Quantity": 3
+  },
+  "A2": {
+    "Name": "CocaCola",
+    "Price": 3.0,
+    "Quantity": 13
+  },
+  "A3": {
+    "Name": "Sprite",
+    "Price": 3.0,
+    "Quantity": 13
+  },
+  "A4": {
+    "Name": "Fanta",
+    "Price": 3.0,
+    "Quantity": 13
+  },
+  "A5": 
+    {
+      "Name": "Water",
+      "Price": 2.0,
+      "Quantity": 10
+    }
+}
