@@ -19,10 +19,9 @@
     "Price": 3.0,
     "Quantity": 13
   },
-  "A5": 
-    {
-      "Name": "Water",
-      "Price": 2.0,
-      "Quantity": 10
-    }
+  "A5": {
+    "Name": "Water",
+    "Price": 2.0,
+    "Quantity": 10
+  }
 }
